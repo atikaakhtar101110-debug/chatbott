@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kb001",
+    "title": "How to reset your password",
+    "content": "To reset your password, go to the login page and click 'Forgot password'. Enter the email address on your account and we will send a reset link. The link expires after 30 minutes. If you don't receive the email, check your spam folder or request a new link."
+  },
+  {
+    "id": "kb002",
+    "title": "Refund policy",
+    "content": "We offer full refunds within 30 days of purchase for any reason. To request a refund, go to Account > Orders, select the order, and click 'Request refund'. Refunds are processed within 5-7 business days and returned to the original payment method."
+  },
+  {
+    "id": "kb003",
+    "title": "How to cancel a subscription",
+    "content": "You can cancel your subscription anytime from Account > Billing > Manage subscription > Cancel. Cancellation takes effect at the end of the current billing period. You will keep access until then and will not be charged again."
+  },
+  {
+    "id": "kb004",
+    "title": "Updating billing information",
+    "content": "To update your credit card or billing address, go to Account > Billing > Payment methods. Add a new card and set it as default, or edit your existing card details. Changes apply to your next billing cycle."
+  },
+  {
+    "id": "kb005",
+    "title": "Shipping times and tracking",
+    "content": "Standard shipping takes 3-5 business days within the country and 7-14 business days internationally. Once your order ships, you'll receive a tracking number by email. You can also view tracking info under Account > Orders."
+  },
+  {
+    "id": "kb006",
+    "title": "Account is locked or suspended",
+    "content": "Accounts are temporarily locked after 5 failed login attempts for security. Wait 15 minutes and try again, or reset your password. If your account was suspended for a policy violation, you will have received an email explaining why and how to appeal."
+  },
+  {
+    "id": "kb007",
+    "title": "Contacting a human agent",
+    "content": "If the chatbot can't resolve your issue, you can escalate to a human support agent. Agents are available Monday-Friday, 9am-6pm. Typical response time is under 2 hours during business hours."
+  }
+]
